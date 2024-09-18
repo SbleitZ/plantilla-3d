@@ -1,0 +1,11 @@
+Model Information:
+* title:	Cute avocado
+* source:	https://sketchfab.com/3d-models/cute-avocado-cf60109cfba348a7b31c2b7985a2dca1
+* author:	stalkerlis180 (https://sketchfab.com/stalkerlis180)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Cute avocado" (https://sketchfab.com/3d-models/cute-avocado-cf60109cfba348a7b31c2b7985a2dca1) by stalkerlis180 (https://sketchfab.com/stalkerlis180) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
