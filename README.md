@@ -1,6 +1,6 @@
 # Plantilla de web con componentes 3D
 Plantilla web 3D para regalarle a cualquier persona.
-
+![demostracion](https://github.com/user-attachments/assets/fe3c16c0-f58b-4dee-ac25-3fb9fbc9373b)
 ## Instalación
 1. Instala las dependencias
 ```bash
