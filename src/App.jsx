@@ -22,7 +22,7 @@ function App() {
           <ScrollControls pages={5} damping={0.2}>
             {/* <Model position={[0, -1, -15]}/> */}
             <Appa position={[0,1,0]} />
-            <Sparkles size={2} color={"#83f569"} scale={[10, 10, 10]} />
+            <Sparkles size={2} color={"#7C5AF4"} scale={[10, 10, 10]} />
             <Scroll html style={{ width: "100%" }}>
               <div className="container">
               <div className="title">
